@@ -1,10 +1,10 @@
 # Learning About Linux
 
 ## Introduction
-The following notes contains the major information about linux. It contains information about the history, various distributions and imoportant linux commands. It will provide users with information about linux operating system and its usage.
+The following notes contains the major information about linux. It contains information about the history, various distributions and imoportant linux commands. It will provide users with the information about the linux operating system and its usages.
 
 ## Section 1: Linux History
-Linux was created in 1991 by Linus Torvalds. The aim was to create a free, open source operating system kernel. Since then Linux kernel has become the foundation of various operating systems. It is known as Linux distributions. 
+Linus Torvalds created linux in 1991. The aim was to create a free, open source operating system kernel. Since then Linux kernel has become the foundation of various operating systems. It is known as Linux distributions. 
 
 Linux community abd other key contributors have played a vital role in developing and maintaining the kernel. Now linux is widely used in web servers and smartphones.. Today, Linux powers the majority of the internet's servers and is widely regarded for its stability, security, and flexibility.
 
