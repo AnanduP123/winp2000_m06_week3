@@ -37,4 +37,3 @@ These commands are necessary for navigating and managing files within the Linux 
 
 ## Conclusion
 This documentcontains the history of Linux, its distributions, and basic commands. Learning Linux is a valuable skill for anyone looking to work in software development, system administration, or IT. Its flexibility and open-source nature make it a powerful tool in modern computing.
->>>>>>> 5d7c40f87ebc718101fa2c64c279a5d0a02d5f9a
